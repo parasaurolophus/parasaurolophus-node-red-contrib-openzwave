@@ -1,6 +1,6 @@
 {
   "name": "@parasaurolophus/node-red-contrib-openzwave",
-  "version": "1.6.3",
+  "version": "1.6.4",
   "description": "ZWave for node-red through OpenZWave, the open source ZWave library",
   "dependencies": {
     "openzwave-shared": "=1.6.2",

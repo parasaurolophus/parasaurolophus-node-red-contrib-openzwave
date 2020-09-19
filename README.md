@@ -1,6 +1,6 @@
 ### Decription
 
-> **Note:** This is a fork of [node-red-contrib-openzwave][https://flows.nodered.org/node/node-red-contrib-openzwave] with certain bug fixes and enhancements not yet merged into the upstream repository
+> **Note:** This is a fork of [node-red-contrib-openzwave](https://flows.nodered.org/node/node-red-contrib-openzwave) with certain bug fixes and enhancements not yet merged into the upstream repository
 
 *OpenZWave* nodes for Node-Red ( <http://nodered.org/> ). Uses the *shared* OpenZWave addon for Node.js ( <https://github.com/OpenZWave/node-openzwave-shared> ).
 Integrating this node onto your Node-Red installation enables you to have **bidirectional integration with ZWave networks**, ie you can:
